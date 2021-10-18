@@ -1,0 +1,14 @@
+uuid: 1b767721-8016-44a3-926e-66a383fb22a7
+name: 'Thomas SERRES'
+mail: contact@thomas-serres.fr
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /
+admin_compact_mode: false
+weight_select_max: 100
+langcode: fr
+default_langcode: fr
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE

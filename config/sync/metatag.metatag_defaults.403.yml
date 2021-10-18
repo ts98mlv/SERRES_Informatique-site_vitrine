@@ -1,0 +1,11 @@
+uuid: a2dce604-1fc0-4214-a310-2f59114d5461
+langcode: fr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Da5YWhJdKLxaJ9gDRI1u5oCbm5WBxiiDgA4M1QrOEPQ
+id: '403'
+label: 'page 403 accès refusé'
+tags:
+  canonical_url: '[site:url]'
+  shortlink: '[site:url]'
