@@ -34,6 +34,7 @@ module:
   layout_discovery: 0
   link: 0
   locale: 0
+  media: 0
   menu_link_content: 0
   menu_ui: 0
   metatag: 0
@@ -45,9 +46,14 @@ module:
   path: 0
   path_alias: 0
   quickedit: 0
+  rabbit_hole: 0
   rdf: 0
   responsive_image: 0
   rest: 0
+  rh_media: 0
+  rh_node: 0
+  rh_taxonomy: 0
+  rh_user: 0
   search: 0
   search_api: 0
   search_api_db: 0

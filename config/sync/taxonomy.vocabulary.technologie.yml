@@ -1,0 +1,8 @@
+uuid: f30e788b-87c1-40ce-8989-7688fbeccc80
+langcode: fr
+status: true
+dependencies: {  }
+name: Technologie
+vid: technologie
+description: ''
+weight: 0

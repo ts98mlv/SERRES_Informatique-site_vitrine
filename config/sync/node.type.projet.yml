@@ -1,0 +1,17 @@
+uuid: 55cf966c-89fe-4a60-81f6-2cd062c42c30
+langcode: fr
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: projet
+type: projet
+description: ''
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: true

@@ -17,7 +17,7 @@ display:
   default:
     display_plugin: default
     id: default
-    display_title: 'Par défaut'
+    display_title: Default
     position: 0
     display_options:
       access:
@@ -37,7 +37,7 @@ display:
       exposed_form:
         type: basic
         options:
-          submit_button: Filtrer
+          submit_button: Filter
           reset_button: true
           reset_button_label: Reset
           exposed_sorts_label: 'Sort by'
@@ -52,8 +52,8 @@ display:
           id: 0
           total_pages: 0
           tags:
-            previous: '‹ Précédent'
-            next: 'Suivant ›'
+            previous: '‹ Previous'
+            next: 'Next ›'
             first: '« First'
             last: 'Last »'
           expose:

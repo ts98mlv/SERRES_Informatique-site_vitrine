@@ -1,0 +1,18 @@
+uuid: 226669ac-5b0c-4637-a797-bbf379a04d05
+langcode: fr
+status: true
+dependencies:
+  config:
+    - node.type.projet
+id: node.projet.title
+field_name: title
+entity_type: node
+bundle: projet
+label: 'Titre du contenu'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

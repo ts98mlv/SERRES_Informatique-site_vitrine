@@ -1,0 +1,41 @@
+uuid: 47aefa89-e9c0-4bb6-9d92-cc7ef836d8e7
+langcode: fr
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.projet.field_description
+    - field.field.node.projet.field_git_url
+    - field.field.node.projet.field_project_image
+    - field.field.node.projet.field_project_title
+    - field.field.node.projet.field_project_url
+    - field.field.node.projet.field_technologies
+    - node.type.projet
+  module:
+    - field_layout
+    - layout_discovery
+    - user
+third_party_settings:
+  field_layout:
+    id: layout_onecol
+    settings:
+      label: ''
+id: node.projet.teaser
+targetEntityType: node
+bundle: projet
+mode: teaser
+content:
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  field_description: true
+  field_git_url: true
+  field_project_image: true
+  field_project_title: true
+  field_project_url: true
+  field_technologies: true
+  langcode: true
+  search_api_excerpt: true

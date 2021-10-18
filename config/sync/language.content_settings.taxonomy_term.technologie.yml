@@ -1,0 +1,11 @@
+uuid: 133ce3df-1dac-4650-85fb-5f587f4ecd78
+langcode: fr
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.technologie
+id: taxonomy_term.technologie
+target_entity_type_id: taxonomy_term
+target_bundle: technologie
+default_langcode: site_default
+language_alterable: false
